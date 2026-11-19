@@ -6,6 +6,11 @@ Portfólio profissional de um Assistente de Projetos Sênior em telecomunicaçõ
 **LinkedIn:** https://www.linkedin.com/in/mateusca/  
 **Medium:** https://medium.com/@mateus.cesararaujo
 
+## Currículos em PDF
+
+- [Análise de Dados e BI](https://mateuscdev.github.io/curriculos/dados-bi.pdf)
+- [Engenharia de Dados Júnior](https://mateuscdev.github.io/curriculos/engenharia-de-dados.pdf)
+
 ## Certificações
 
 - Microsoft Certified: Fabric Analytics Engineer Associate — **DP-600** (2026)
@@ -20,10 +25,10 @@ Portfólio profissional de um Assistente de Projetos Sênior em telecomunicaçõ
 | Projeto | Área | Evidência |
 | --- | --- | --- |
 | [Dashboard de Infraestrutura e Operações](https://github.com/MateusCDev/telecom-infrastructure-dashboard) | BI / Looker Studio | Dashboard publicado e documentação |
-| [Conectividade Digital na Bahia](https://medium.com/@mateus.cesararaujo) | Análise de Dados / Python | Estudo publicado no Medium |
+| [Conectividade Digital na Bahia](https://medium.com/@mateus.cesararaujo/conectividade-digital-na-bahia-an%C3%A1lise-da-cobertura-4g-5g-e-competitividade-91b558b51c18) | Análise de Dados / Python | Estudo publicado no Medium |
 | [Pipeline de Conectividade — Bahia](https://github.com/MateusCDev/anatel-conectividade-bahia) | Engenharia de Dados | **Em desenvolvimento** |
 | [Fibra Import](https://mateuscdev.github.io/fibra-import/) | Automação / OZmap | Aplicação web demonstrável |
-| [Churn em Telecom](https://medium.com/@mateus.cesararaujo) | SQL / Power BI | Estudo de dados sintéticos |
+| [Churn em Telecom](https://mateuscdev.github.io/#case/churn-telecom) | SQL / Power BI | Estudo de dados sintéticos |
 | [ETL / ELT NetBox](https://github.com/MateusCDev/ETL_NETBOX) | Integração de Dados | Notebook com código desenvolvido com assistência de IA |
 | [Inspeções de POPs](https://github.com/MateusCDev/inspecoes-pops) | Sistemas / Telecom | Aplicação em evolução |
 
